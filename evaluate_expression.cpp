@@ -1,13 +1,3 @@
-/****************************************************
-Course		: CO2210 Programming Quest
-Name		: YAPA.YMTL
-Index no.	: 17_ENG_119
-Asgmnt No.	: 01
-Task		: 01
-Date		: 26-08-2019
-****************************************************/
-
-
 //Header files
 #include<iostream>
 #include <string>
